@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding in Java/Python etc
 - 🌱 I’m currently challenging myself on ... being persistent in learning something each day and posting it online
 - 💞️ I’m looking to collaborate on ... learning and knowledge sharing on coding.
-- 📫 How to reach me ... You can email me at mailthelinkedlist@gmail.com or follow me on my website thelinkedlist.com
+- 📫 How to reach me ... You can email me at mailthelinkedlist@gmail.com or follow me on my website http://www.thelinkedlist.com
 - ⚡ Fun fact: ... I have around 15 years work experience in the industry and live in Canada.
 
 <!---
